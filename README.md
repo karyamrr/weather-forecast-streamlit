@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25946017/README.md)
 # Прогноз опадів на основі Open-Meteo
 
 Streamlit-застосунок, який завантажує реальні метеодані, навчає модель
